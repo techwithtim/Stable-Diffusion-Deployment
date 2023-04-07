@@ -1,0 +1,5 @@
+nvidia-triton
+torch
+diffusers
+transformers
+torch-vision
